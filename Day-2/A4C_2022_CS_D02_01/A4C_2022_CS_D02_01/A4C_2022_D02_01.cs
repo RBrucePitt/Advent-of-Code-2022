@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Advent for code - 2022 - Day 2 - R. Bruce Pitt, 2022/12/03
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
