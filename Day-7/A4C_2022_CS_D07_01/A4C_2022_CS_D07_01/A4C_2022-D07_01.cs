@@ -1,4 +1,4 @@
-﻿// Advent for code - 2022 - Day 6 - R. Bruce Pitt, 2022/12/06
+﻿// Advent for code - 2022 - Day 7 - R. Bruce Pitt, 2022/12/07
 
 using System;
 using System.Collections.Generic;
